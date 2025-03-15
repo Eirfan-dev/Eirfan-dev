@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Microsoft Company.
 - 📫 How to reach me : https://t.me/eefunn
-- ⚡ Fun fact: ...
 
 <!---
 Eirfan-dev/Eirfan-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
